@@ -20,7 +20,7 @@
  * Listen here: https://youtu.be/X0MDALpV29s
  *
  */
-$(document).on('mousemove', function(){
+$(document).on('scroll', function(){
     // setTimeout(()=> {
         document.getElementById("my_audio").play();
 
